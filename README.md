@@ -2,9 +2,7 @@ Olá, me chamo Jonathan! 👋
 
  🔥  Bem vindo ao meu perfil GitHub 🔥 
 
-- 🔭 Atualmente estou trabalhando em Quality Assurance.
-
-- 🌱 Atualmente estou aprendendo programação Full Stack. 
+- 🔭 Atualmente estou trabalhando em Quality Assurance e estudando programação.
 
 - 📫  Contatos:
 <div>
